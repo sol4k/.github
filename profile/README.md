@@ -1,0 +1,3 @@
+Sol4k is a Kotlin client for Solana that can be used with Java or any other JVM language, as well as on Android.
+
+Check out [the sol4k repository](https://github.com/sol4k/sol4k) and [examples](https://github.com/sol4k/sol4k-examples) to find out more.
